@@ -103,9 +103,9 @@ You won!
 
 ### 📁 File Info
 
-**File name:** `snake_water_gun.py`
-**Language:** Python
-**Author:** Your Name
-**Version:** 1.0
+* File name: `snake_water_gun.py`
+* Language: Python
+* Author: YR
+* Version: 1.0
 
 ---
